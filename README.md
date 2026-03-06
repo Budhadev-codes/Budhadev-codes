@@ -29,3 +29,5 @@ Flask • SQL • Git • Supabase
 ## 📫 Connect
 
 LinkedIn: www.linkedin.com/in/budhadev444
+
+C++ HTML5 CSS3 Python AWS Vercel Bootstrap FastAPI Flask OpenCV React TailwindCSS Windicss WordPress MicrosoftSQLServer MongoDB MySQL Postgres Redis Supabase SQLite Canva Figma Framer Adobe NumPy Pandas Plotly scikit-learn Matplotlib Git GitHub Selenium Portfolio Power Bi Epic Games Riot Games Steam Xbox
