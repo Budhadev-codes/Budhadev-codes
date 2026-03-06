@@ -4,31 +4,6 @@
 🚀 Interested in Product Management, AI Tools, and Startups
 🧠 I enjoy turning real-world problems into practical solutions.
 
----
-
-## 🚀 Projects
-
-**Feedback Compass**
-AI tool that converts CSV feedback data into structured insights using sentiment analysis and topic classification.
-
-**Cycle Restoration System**
-Social impact product concept that redistributes unused bicycles to families who need them.
-
-**MediConnect**
-Healthcare platform concept with appointment scheduling, analytics dashboard, and multilingual support.
-
----
-
-## 🛠 Tech
-
-Python • HTML • CSS • JavaScript
-Flask • SQL • Git • Supabase
-
----
-
-## 📫 Connect
-
-LinkedIn: www.linkedin.com/in/budhadev444
 # 💫 About Me:
 🚀 I'm currently building AI-powered tools like Feedback Compass to turn raw data into useful insights.<br><br>🤝 I'm looking to collaborate on AI products, data-driven tools, and startup ideas.<br><br>🧠 I'm interested in product thinking, user research, and building practical solutions.<br><br>🌱 I'm currently learning Product Management, Data Analytics, and improving my DSA skills.<br><br>💻 I enjoy building MVPs quickly to test real-world ideas.<br><br>📊 I like exploring how data and feedback can guide better product decisions.<br><br>🛠 I work with Python, Flask, HTML, CSS, JavaScript, SQL, and Supabase.<br><br>🚀 My goal is to build impactful products that solve meaningful problems.<br><br>💬 Ask me about AI tools, product ideas, startups, or building MVPs.<br><br>⚡ Fun fact: I enjoy turning small ideas into working products.
 
@@ -45,5 +20,20 @@ LinkedIn: www.linkedin.com/in/budhadev444
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Budhadev-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 🚀 Projects
+
+**Feedback Compass**
+AI tool that converts CSV feedback data into structured insights using sentiment analysis and topic classification.
+
+**Cycle Restoration System**
+Social impact product concept that redistributes unused bicycles to families who need them.
+
+**MediConnect**
+Healthcare platform concept with appointment scheduling, analytics dashboard, and multilingual support.
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
