@@ -93,17 +93,10 @@ Flask • Git • GitHub • SQL • Supabase
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Budhadev-codes\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Budhadev-codes\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: www.linkedin.com/in/budhadev444
 
 ---
 
