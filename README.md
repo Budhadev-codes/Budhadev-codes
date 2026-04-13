@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Ash+👋&center=true&width=500&height=50">
+</p>
 # Hi 👋 I'm D F Budha Dev
 
 🎓 Computer Science Engineering Student
