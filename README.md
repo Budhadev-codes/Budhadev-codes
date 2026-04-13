@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+D F Budha Dev +👋&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Ash +👋&center=true&width=500&height=50">
 </p>
-# Hi 👋 I'm D F Budha Dev
+
 🎓 Computer Science Engineering Student
 🚀 Interested in Product Management, AI Tools, and Startups
 🧠 I enjoy turning real-world problems into practical solutions.
